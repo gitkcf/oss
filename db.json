@@ -9,9 +9,7 @@
     "name": "typicode"
   },
   "jobs": {
-	"job": "https://permits.easygov.swiss/lnkchex/jobs/c7743c78-a656-403e-96e2-e71326af4d83",
-	"dateCreated": "2019-04-04T15:51:15",
-	"linkCount": 3
+	"location": "https://my-json-server.typicode.com/gitkcf/oss/jobsComplete"
   },
   "jobsComplete": {
 	"job": "https://permits.easygov.swiss/lnkchex/jobs/c7743c78-a656-403e-96e2-e71326af4d83",
