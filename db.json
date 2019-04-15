@@ -17,6 +17,20 @@
 	"job": "https://permits.easygov.swiss/lnkchex/jobs/c7743c78-a656-403e-96e2-e71326af4d83",
 	"dateCreated": "2019-04-04T15:51:15",
 	"dateCompleted": "2019-04-04T15:52:15",
-	"linkCount": 3
+	"linkCount": 3,
+	"result": [
+		{
+			"url": "https://www.easygov.swiss",
+			"httpStatus": 200
+		},
+		{
+			"url": "https://www.easygov.swiss/foobar",
+			"httpStatus": 404
+		},
+		{
+			"url": "https://www.isigov.swiss",
+			"error": "request to https://www.isigov.swiss failed, reason: getaddrinfo ENOTFOUND www.isigov.swiss www.isigov.swiss:443"
+		}
+	]
   }
 }
